@@ -1,0 +1,1 @@
+Basic HTML structure, Jinja2 templating,Static files,Forms,Template inheritance,Mini project
